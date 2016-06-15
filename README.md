@@ -68,7 +68,7 @@ There are several ways to integrate the Application Insights Xamarin SDK into yo
 
 1. Expand one of your platform projects inside the solution panel
 2. Right click the **Packages** folder and select ***Add Packages...***
-3. [Configure a local package source](http://developer.xamarin.com/guides/cross-platform/application_fundamentals/nuget_walkthrough/) and let it point to 
+3. [Configure a local package source](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/nuget_walkthrough/) and let it point to 
 *ApplicationInsightsXamarin/NuGet*
 4. Choose the local package source in the sources dropdown
 4. Check the **Show pre-release packages** and select **ApplicationInsights SDK for Xamarin.Forms**
